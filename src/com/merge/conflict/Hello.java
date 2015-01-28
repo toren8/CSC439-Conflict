@@ -9,7 +9,6 @@ public class Hello {
 		System.out.println("Team member 2: 2");
 		System.out.println("Team member changes this line entirely");
 		
-		System.out.println("Testing Conflict Resolution");
 	}
 	
 }
